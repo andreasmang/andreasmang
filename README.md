@@ -1,7 +1,9 @@
 ### Hey there!
 
 I am an Assistant Professor at the Department of Mathematics of the University of Houston. 
-To find out more visit https://math.uh.edu/~andreas.
+To find out more about me, myself, and I, my work, and my group visit
+
+https://math.uh.edu/~andreas
 
 <!--
 **andreasmang/andreasmang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

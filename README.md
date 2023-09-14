@@ -1,6 +1,6 @@
 ### Hey there!
 
-I am an Assistant Professor at the Department of Mathematics of the University of Houston. 
+I am an Associate Professor at the Department of Mathematics of the University of Houston. 
 To find out more about me, myself, and I, my work, and my group visit
 
 https://math.uh.edu/~andreas

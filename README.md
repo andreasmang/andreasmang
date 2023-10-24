@@ -1,9 +1,6 @@
 ### Hey there!
 
-I am an Associate Professor at the Department of Mathematics of the University of Houston. 
-To find out more about me, myself, and I, my work, and my group visit
-
-https://math.uh.edu/~andreas
+I am an Associate Professor at the Department of Mathematics of the University of Houston. To find out more about me, myself, and I, as well as my work, visit https://math.uh.edu/~andreas. To learn more about my research group and its members, you can visit https://scopagroup.github.io.
 
 <!--
 **andreasmang/andreasmang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
